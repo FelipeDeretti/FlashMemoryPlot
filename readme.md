@@ -1,6 +1,6 @@
 -Apos clonar o repositorio e ter o python instalado
 
--Rodar via cmd pela dentro da pasta do projeto:
+-Rodar via cmd dentro da pasta do projeto:
 
 -(windows) pip install -r requirements.txt
 
