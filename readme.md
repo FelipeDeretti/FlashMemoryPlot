@@ -1,8 +1,9 @@
-Apos clonar o repositorio e ter o python instalado
+-Apos clonar o repositorio e ter o python instalado
 
-rodar via cmd pela dentro da pasta do projeto:
+-Rodar via cmd pela dentro da pasta do projeto:
 
-(windows) pip install -r requirements.txt
-(mac/linux) pip3 install -r requirements.txt
+-(windows) pip install -r requirements.txt
 
-para realizar a instalcao das dependecias do projeto
+-(mac/linux) pip3 install -r requirements.txt
+
+-Para realizar a instalcao das dependecias do projeto
